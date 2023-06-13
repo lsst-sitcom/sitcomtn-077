@@ -8,13 +8,11 @@ Abstract
 ========
 
 This technote shows analysis of the drift during tracking.
+
 Drift during tracking uses the following files in `lsst-sitcom/notebooks_vandv <https://github.com/lsst-sitcom/notebooks_vandv/>`__
 in the ``notebooks/tel_and_site/subsys_req_ver/tma/`` directory:
+
 - ``LVV-T2738-ST_PTT_Tracking_drift_check.ipynb``
-
-.. code-block:: python
-
-   print('hello world!')
 
 Methodology
 ================
