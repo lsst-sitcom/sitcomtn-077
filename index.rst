@@ -19,8 +19,9 @@ Methodology
 
 The goal of this study was analyze the drift rate while tracking in March 2023. 
 This was done using the RA and DEC data in RubinTV. 
+Grabbing the json file from the Rubin TV and reading out calculated RA, calculated DEC, and time information, we selected the sequence numbers based on the night logs. (`Startracker night logs <https://confluence.lsstcorp.org/pages/viewpage.action?spaceKey=LSSTCOM&title=StarTracker+Night+Logs>'__)
 
-This analysis was done for the data taken while tracking testing was done on 2023/03/09.
+This analysis was done for the data taken while tracking testing was done on 2023/03/09 and 2023/03/24.
 
 
 
