@@ -32,10 +32,12 @@ We ran the notebook to take 1800 images each from all 3 generic cameras (startra
 
 
 .. image:: ./_static/ra_dec_drift_2023_0324_746_788.png
+  :width: 700px
 
 Figure 1.  Calculated RA and DEC and residuals during the tracking.
 
 .. image:: ./_static/draft_velocity_hist.png
+  :width: 700px
 
 Figure 2.  Coordinate Draft velocity and Angular Draft Velocity Histograms
 
