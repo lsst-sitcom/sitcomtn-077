@@ -1,0 +1,26 @@
+[technote]
+id = "SITCOMTN-077"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-077.lsst.io/"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-077"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Hye Yun", family = "Park"}
+internal_id = "parkhy"
+orcid = "https://orcid.org/0000-0002-7295-2743"
+[[technote.authors.affiliations]]
+name = "Department of Physics"
+internal_id = "Duke"
+address = "Duke University, Durham, NC 27708, USA"
+
+[[technote.authors]]
+name = {given = "Frossie", family = "Economou"}
+internal_id = "economouf"
+orcid = "https://orcid.org/0000-0002-8333-7615"
+[[technote.authors.affiliations]]
+name = "Vera C. Rubin Observatory Project Office"
+internal_id = "RubinObs"
+address = "950 N. Cherry Ave., Tucson, AZ 85719, USA"

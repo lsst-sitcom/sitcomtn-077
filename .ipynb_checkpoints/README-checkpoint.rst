@@ -40,11 +40,11 @@ Publishing changes to the web
 =============================
 
 This technote is published to https://sitcomtn-077.lsst.io/ whenever you push changes to the ``main`` branch on GitHub.
-When you push changes to another branch, a preview of the technote is published to https://sitcomtn-077.lsst.io/v.
+When you push changes to a another branch, a preview of the technote is published to https://sitcomtn-077.lsst.io/v.
 
 Editing this technical note
 ===========================
 
 The main content of this technote is in ``index.rst`` (a reStructuredText file).
-Metadata and configuration are in the ``technote.toml`` file.
+Metadata and configuration is in the ``technote.toml`` file.
 For guidance on creating content and information about specifying metadata and configuration, see the Documenteer documentation: https://documenteer.lsst.io/technotes.
